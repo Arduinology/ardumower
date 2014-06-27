@@ -1,5 +1,4 @@
 #Ardumower
-=========
 
 ##Credits
 This is a fork of the Ardumower svn repo found at https://code.google.com/p/ardumower/
